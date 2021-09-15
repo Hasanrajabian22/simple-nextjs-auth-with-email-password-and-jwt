@@ -110,7 +110,7 @@ function SignUpPage() {
                             }
                         </div>
                         <div className='mb-3'>
-                            <p>Have an account <span className='fw-bold text-primary'><Link href='/Login'>Log In</Link></span></p>
+                            <p>Have an account? <span className='fw-bold text-primary'><Link href='/Login'>Log In</Link></span></p>
                         </div>
                     </form>
                 </div>
