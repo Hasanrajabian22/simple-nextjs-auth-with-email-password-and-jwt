@@ -91,7 +91,7 @@ function LogInPage() {
                             }
                         </div>
                         <div className='mb-3'>
-                            <p>Don't have an account? <span className='fw-bold text-primary'><Link href='/Signup'>Sign Up</Link></span></p>
+                            <p>Don&apos;t have an account? <span className='fw-bold text-primary'><Link href='/Signup'>Sign Up</Link></span></p>
                         </div>
                     </form>
                 </div>
